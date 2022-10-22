@@ -21,3 +21,17 @@ Activity 5
 3. results page - table
 
 <img width="1440" alt="results-page-table" src="https://user-images.githubusercontent.com/40879743/197314769-90ce14ec-8cbf-438c-99a9-2f58008adc3d.png">
+
+Activity 6
+
+user story 1
+
+<img width="1440" alt="certificate" src="https://user-images.githubusercontent.com/40879743/197315232-c9ff05ab-6c53-42ef-bcc6-63af45105a5c.png">
+
+prototpye 1.1
+
+<img width="1440" alt="APS360" src="https://user-images.githubusercontent.com/40879743/197315252-2c1de603-79ed-4c18-a3b5-659a756d1467.png">
+
+prototype 1.2
+
+<img width="1440" alt="ECE472" src="https://user-images.githubusercontent.com/40879743/197315263-b240ef79-9e0a-4d2f-a2a3-986adfb96545.png">
