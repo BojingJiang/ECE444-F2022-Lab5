@@ -47,3 +47,11 @@ prototype 2.1
 prototype 2.2
 
 <img width="1440" alt="ECE472_minor" src="https://user-images.githubusercontent.com/40879743/198145286-a41daa10-16a3-4a83-8a4f-feed4ee87398.png">
+
+user story 3
+
+As an academic advisor, I want to have the HSS/CS eligibility of the course selected included in the system, so that I can help students select courses to fulfill their graduation requirements.
+
+prototype 3
+
+<img width="1440" alt="TEP445" src="https://user-images.githubusercontent.com/40879743/198156928-3f150090-4e78-4328-9201-e15bfa0b54ab.png">
