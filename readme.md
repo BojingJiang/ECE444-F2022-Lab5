@@ -35,3 +35,15 @@ prototpye 1.1
 prototype 1.2
 
 <img width="1440" alt="ECE472" src="https://user-images.githubusercontent.com/40879743/197315263-b240ef79-9e0a-4d2f-a2a3-986adfb96545.png">
+
+user story 2
+
+<img width="1440" alt="minor" src="https://user-images.githubusercontent.com/40879743/198145038-25f503e5-81df-4965-afa6-07d3c466240d.png">
+
+prototype 2.1
+
+<img width="1440" alt="APS360_minor" src="https://user-images.githubusercontent.com/40879743/198145263-fb54c339-abff-4ffd-964e-0a42d26beede.png">
+
+prototype 2.2
+
+<img width="1440" alt="ECE472_minor" src="https://user-images.githubusercontent.com/40879743/198145286-a41daa10-16a3-4a83-8a4f-feed4ee87398.png">
