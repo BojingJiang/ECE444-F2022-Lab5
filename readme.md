@@ -50,8 +50,16 @@ prototype 2.2
 
 user story 3
 
-As an academic advisor, I want to have the HSS/CS eligibility of the course selected included in the system, so that I can help students select courses to fulfill their graduation requirements.
+As an academic advisor, I want to have the CS/HSS eligibility of the course selected included in the system, so that I can help students select courses to fulfill their graduation requirements.
 
-prototype 3
+prototype 3.1
+
+<img width="1440" alt="TEP234" src="https://user-images.githubusercontent.com/40879743/198157886-0c492ee1-3d21-4386-8daf-e3f785d5a8b8.png">
+
+prototype 3.2
+
+<img width="1440" alt="TEP432" src="https://user-images.githubusercontent.com/40879743/198157895-4cb85cf1-ebe5-4512-97fa-b349b4f68971.png">
+
+prototype 3.3
 
 <img width="1440" alt="TEP445" src="https://user-images.githubusercontent.com/40879743/198156928-3f150090-4e78-4328-9201-e15bfa0b54ab.png">
