@@ -12,15 +12,15 @@ Activity 5
 
 1. home page
 
-<img width="1440" alt="home-page" src="https://user-images.githubusercontent.com/40879743/197314757-38183a8b-c1c8-477d-bad1-8c082788aafa.png">
+<img width="1440" alt="home" src="https://user-images.githubusercontent.com/40879743/198134663-8aae2729-91b2-49ca-b548-68d9e9ce387a.png">
 
 2. results page - form
 
-<img width="1440" alt="results-page-form" src="https://user-images.githubusercontent.com/40879743/197314765-c10191f1-2638-40b0-9037-4430f1266264.png">
+<img width="1440" alt="result_form" src="https://user-images.githubusercontent.com/40879743/198134679-6327828b-c120-4aca-a609-ea317f9f8b4d.png">
 
 3. results page - table
 
-<img width="1440" alt="results-page-table" src="https://user-images.githubusercontent.com/40879743/197314769-90ce14ec-8cbf-438c-99a9-2f58008adc3d.png">
+<img width="1440" alt="result_table" src="https://user-images.githubusercontent.com/40879743/198134698-46862df4-8172-446a-8799-63bc43c81cad.png">
 
 Activity 6
 
