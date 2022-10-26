@@ -21,12 +21,9 @@
     border-left: 1px solid #00204E;
     border-bottom: 1px solid #00204E;
 }
-#results-page-table-container table th {
+#results-page-table-container table:last-child td{
     border-right: 1px solid #00204E;
 }
-#results-page-table-container table td :last-child {
-    border-right: 1px solid #00204E;
-}
-#results-page-table-container table th :last-child {
+#results-page-table-container table:last-child th{
     border-right: 1px solid #00204E;
 }
